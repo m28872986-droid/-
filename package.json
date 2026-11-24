@@ -1,0 +1,12 @@
+{
+  "name": "yovn-private-rooms-bot",
+  "version": "1.0.0",
+  "description": "Discord private voice rooms with owner controls and join requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}

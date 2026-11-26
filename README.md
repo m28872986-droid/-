@@ -12,9 +12,9 @@
 4. Start with `npm start`.
 
 ## Configured channel IDs
-- Category: `1565013714489442305`
-- Voice waiting room: `1565013900116623360`
-- Join-request panel channel: `1565013801407873085`
+- Category: `1575339594029727774`
+- Voice waiting room: `1575340042254024834`
+- Join-request panel channel: `1575339849676759091`
 
 ## Discord Developer Portal
 Enable these privileged intents:

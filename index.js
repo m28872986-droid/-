@@ -7,9 +7,9 @@ const fs = require("fs");
 const path = require("path");
 
 const TOKEN = process.env.DISCORD_TOKEN;
-const CATEGORY_ID = "1565013714489442305";
-const WAITING_ROOM_ID = "1565013900116623360";
-const REQUEST_PANEL_CHANNEL_ID = "1565013801407873085";
+const CATEGORY_ID = "1575339594029727774";
+const WAITING_ROOM_ID = "1575340042254024834";
+const REQUEST_PANEL_CHANNEL_ID = "1575339849676759091";
 const DB_PATH = path.join(__dirname, "rooms.json");
 const EMBED_COLOR = 0x9B59B6;
 const applicationEmojiCache = new Map();
